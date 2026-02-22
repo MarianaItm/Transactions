@@ -109,5 +109,3 @@ Acceso mediante terminal:
 ```bash
 tail -f storage/logs/laravel.log
 ```
-
-...existing code...
